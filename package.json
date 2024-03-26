@@ -1,0 +1,14 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "description": "tracking app for remote developers",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "mustafa",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.5"
+  }
+}
